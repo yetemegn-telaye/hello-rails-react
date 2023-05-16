@@ -1,5 +1,5 @@
-const path    = require("path")
-const webpack = require("webpack")
+const path    = require('path')
+const webpack = require('webpack')
 
 module.exports = {
   mode: "production",
@@ -23,7 +23,7 @@ module.exports = {
   },
   plugins: [
     new webpack.optimize.LimitChunkCountPlugin({
-      maxChunks: 1
-    })
-  ]
-}
+      maxChunks: 1,
+    }),
+  ],
+};
