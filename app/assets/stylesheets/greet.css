@@ -1,14 +1,14 @@
 .greeting-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 1rem;
-    margin-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 2rem;
 }
 
 .greeting-container h2 {
-    font-size: 2.5rem;
-    font-weight: 500;
-    color: brown;
+  font-size: 2.5rem;
+  font-weight: 500;
+  color: brown;
 }
