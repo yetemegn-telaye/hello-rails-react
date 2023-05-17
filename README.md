@@ -74,9 +74,6 @@ Setup: Webpack
 
 ### Live Demo <a name="live-demo"></a>
 
-  [Poceket Planner Live Demo](https://pocket-planner.onrender.com)
-
-
 
 <!-- GETTING STARTED -->
 
@@ -106,6 +103,7 @@ Install this project with:
 ```sh
   cd hello-rails-react
   gem install
+  npm install
 ```
 
 ### Usage
